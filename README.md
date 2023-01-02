@@ -28,12 +28,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows IIS
 - 
-
-<h2>Steps </h2>
-Install / Enable IIS in Windows
-<p>
+<h2> Tutorial Instructions 
+<h3> Step 1: Install / Enable IIS in Windows </h3> Access the "Control Panel", "Programs", then "Programs and Features". Then select "Turn Windows features on or off" on the left. On the pop up window, select the box for "Internet Information Services."
+</p>
 <img src="https://i.imgur.com/hDMysuo.png" height="80%" width="80%" alt="Enable IIS"/>
-Step 1
+
+</p>
+<p>
+<h3> Step 2: Install Web Platform Installer </h3> Click the following link for the required downloads https://bit.ly/3WFRPdg. 
+Now download the Web Platform Installer and open it.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kOh6Ezy.png" height="80%" width="80%" alt="Web Platform Installer"/>
+
+From inside the application you will search and install "MySQL 5.5," all "PHP" versions up until 7.3.25. As pictured below, some of the files will fail to download, however the links for those can also be found on the aforementioned install link. 
 </p>
 <p>
 
@@ -41,18 +51,10 @@ Step 1
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="https://i.imgur.com/RtPT3ki.png" height="80%" width="80%" alt="Download Failures"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3: 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
